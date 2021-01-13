@@ -1,0 +1,10 @@
+ [
+	{
+	"prompts": ["A name", "a noun", "adverb", "adjective"],
+	"story": "Once upon a time someone called %s ate a %s flavored sandwhich which made him feel all %s inside and it was %s"
+	},
+	{
+	"prompts": ["A name", "a noun", "adverb", "color"],
+	"story": "There once lived a man called %s who lived in a %s size room which made them sligthly %s and %s"
+	}
+]
